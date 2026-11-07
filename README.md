@@ -27,11 +27,12 @@ Applied AI Engineer / Forward Deployed Engineer · Engineering Lead at Humano ·
 
 **Working on**
 
-Wildchild AI OS: multi-tenant agent platform, Python to .NET 10, MCP connectors, skills, Langfuse eval gates<br>
-LiveTwin: 25-tool MCP server with Neo4j and Qdrant memory<br>
-Equisoft RFX: hybrid RAG on Azure Container Apps<br>
-Bumi: consumer lending, in production since July 2026<br>
-colm and babbage on the side
+<table>
+<tr><td align="right"><b>Wildchild</b></td><td align="left">Multi-tenant agent platform, MCP connectors, skills, eval gates</td></tr>
+<tr><td align="right"><b>LiveTwin</b></td><td align="left">25-tool MCP server, Neo4j + Qdrant memory</td></tr>
+<tr><td align="right"><b>Equisoft RFX</b></td><td align="left">Hybrid RAG on Azure Container Apps</td></tr>
+<tr><td align="right"><b>Bumi</b></td><td align="left">Consumer lending, in production since July 2026</td></tr>
+</table>
 
 <br>
 
