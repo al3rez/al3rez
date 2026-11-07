@@ -8,17 +8,22 @@ Applied AI Engineer / Forward Deployed Engineer · Engineering Lead at Humano ·
 
 <br>
 
-**[colm](https://github.com/al3rez/colm)**: the column terminal for coding agents, built on Ghostty
-
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 <a href="https://colm.sh"><img src="https://colm.sh/assets/screenshot.png" alt="colm" width="100%"></a>
-
-<br><br>
-
-**[babbage](https://github.com/al3rez/babbage)**: a macOS-style Debian 13 desktop, built with Nix
-
+<br><b><a href="https://github.com/al3rez/colm">colm</a></b>
+<br><sub>The column terminal for coding agents, built on Ghostty</sub>
+</td>
+<td width="50%" align="center" valign="top">
 <a href="https://github.com/al3rez/babbage"><img src="https://raw.githubusercontent.com/al3rez/babbage/main/docs/screenshot.png" alt="babbage" width="100%"></a>
+<br><b><a href="https://github.com/al3rez/babbage">babbage</a></b>
+<br><sub>A macOS-style Debian 13 desktop, built with Nix</sub>
+</td>
+</tr>
+</table>
 
-<br><br>
+<br>
 
 **Working on**
 
