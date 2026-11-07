@@ -18,7 +18,7 @@ Applied AI Engineer / Forward Deployed Engineer · Engineering Lead at Humano ·
 <td width="50%" align="center" valign="top">
 <a href="https://github.com/al3rez/babbage"><img src="https://raw.githubusercontent.com/al3rez/babbage/main/docs/screenshot-asus.png" alt="babbage" width="100%"></a>
 <br><b><a href="https://github.com/al3rez/babbage">babbage</a></b>
-<br><sub>A macOS-style Debian 13 desktop, built with Nix</sub>
+<br><sub>An opinionated Debian 13 desktop, built with Nix</sub>
 </td>
 </tr>
 </table>
