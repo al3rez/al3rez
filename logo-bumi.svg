@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#163300"/>
+  <!-- ü mark in Bumi lime -->
+  <circle cx="24" cy="18" r="4.5" fill="#99FF66"/>
+  <circle cx="40" cy="18" r="4.5" fill="#99FF66"/>
+  <path d="M17 29v10c0 8.3 6.7 15 15 15s15-6.7 15-15V29h-9v10a6 6 0 0 1-12 0V29h-9z" fill="#99FF66"/>
+</svg>

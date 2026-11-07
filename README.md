@@ -47,7 +47,7 @@ Applied AI Engineer / Forward Deployed Engineer · Engineering Lead at Humano ·
 <td valign="top" align="left"><b>Equisoft RFX</b><br><sub>Humano client</sub><br>Hybrid RAG over 1,200+ approved Q&amp;As on Azure Container Apps</td>
 </tr>
 <tr>
-<td width="56" valign="top"></td>
+<td width="56" valign="top"><img src="logo-bumi.svg" width="48" height="48" alt="Bumi"></td>
 <td valign="top" align="left"><b>Bumi</b><br><sub>Humano client</sub><br>Consumer lending, in production since July 2026</td>
 </tr>
 </table>
